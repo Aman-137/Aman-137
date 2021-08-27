@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Aman-137
-- 👀 I’m interested in ...Machine Learning
+- 👋 Hi, I’m Aman Kumar
+- 👀 I’m interested in ...Machine Learning and Deep Learning
 - 🌱 I’m currently learning ...Neural Networks and Deep Learning
 - 💞️ I’m looking to collaborate on ...open source ML and DL Projects
 - 📫 How to reach me ...kumaramansingh137@gmail.com
