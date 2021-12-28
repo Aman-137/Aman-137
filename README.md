@@ -19,25 +19,26 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScriptt" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="express" width="40" height="48"/> </a> 
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScriptt" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="express" width="40" height="48"/> </a> 
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase"/> </a>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
     <br>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.w3schools.com/python/numpy/numpy_intro.asp" target="_blank"> <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="48" height="48"/> </a> 
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg" width="48"/> </a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlbWF0xD8rtM3ioHFqIWFJrdgX2lJpqIDN1VLqwpR8Pe_joTkJeYco7oF44C1boLwU4HI&usqp=CAU" width="45" height="45"/> </a>   
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a> 
-    <a href="https://keras.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1J_lOTBETSI5fwQIuJa2-cn_UZX4_sNGiytayY30CY10jLreoZMnbKOe2c5Ig7j6KKM&usqp=CAU" width="48" height="48"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/> </a> 
+    <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" title="Pandas" width="48"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" title="MySQL"/> </a>
+    <a href="https://www.w3schools.com/python/numpy/numpy_intro.asp" target="_blank"> <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" title="Numpy" width="48" height="48"/> </a> 
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/0*Q2P7piuSxFQIq60Z.jpg" title="Matplotlib" width="48"/> </a> 
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="Scikit Learn" width="45" height="45"/> </a>   
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" title="Tensorflow"/> </a> 
+    <a href="https://keras.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1J_lOTBETSI5fwQIuJa2-cn_UZX4_sNGiytayY30CY10jLreoZMnbKOe2c5Ig7j6KKM&usqp=CAU" title="Keras" width="48" height="48"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS-EC2"/> </a>
     
 </p>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
