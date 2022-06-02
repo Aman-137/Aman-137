@@ -1,4 +1,4 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman.</h1>
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Aman.</h1>
 <h3 align="left">I'm a Full Stack Web Developer.<em><strong>(MERN)</strong></em><br>I have also a good hands on <strong>Machine Learning</strong> and <strong>Deep Learning</strong>.</h3>
 <br>
 
