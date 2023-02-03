@@ -3,12 +3,11 @@
 <br>
 
 ## 🙋‍♂️ About Me
+ 
 
-- 🔭 I’m currently working on - A Social Media Site 
+- 🌱 I’m currently learning **Backend Development**.
 
-- 🌱 I’m currently learning **Full Stack Web Development**.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects** either related to Web Development or Machine Learning or Deep Learning.
+- 👯 I’m looking to collaborate on **OpenSource Projects** either related to Web Development or Machine Learning.
 
 - 📫 How to reach me **kumaramansingh137@gmail.com**
 
