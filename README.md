@@ -1,11 +1,11 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Aman.</h1>
-<h3 align="left">I'm a Full Stack Web Developer.<em><strong>(MERN)</strong></em><br>I have also a good hands on <strong>Machine Learning</strong>.</h3>
+<h3 align="left">I'm a Frontend Developer.<em><strong>(React)</strong></em><br>I have also a good hands on <strong>Machine Learning</strong>.</h3>
 <br>
 
 ## 🙋‍♂️ About Me
  
 
-- 🌱 I’m currently learning **Backend Development**.
+- 🌱 I’m currently learning **Backend Development**. MERN
 
 - 👯 I’m looking to collaborate on **OpenSource Projects** either related to Web Development or Machine Learning.
 
